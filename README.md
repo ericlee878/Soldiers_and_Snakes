@@ -11,8 +11,11 @@ Game Elements
 
 
 The Soldier
+
 •	Appearance: The soldier is a pixelated character, wearing a black uniform and holding a gun.
+
 •	Behavior: The soldier is controlled by the player and can move in all four directions. The soldier can also shoot bullets to eliminate snakes.
+
 •	Controls: Use the arrow keys (Up, Down, Left, Right) to move the soldier. Press the Spacebar to shoot a bullet in the direction the soldier is facing.
 
 
